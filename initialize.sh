@@ -36,6 +36,8 @@ brew install --cask dotnet
 # zig
 brew install zig
 
+# go
+brew install go
 
 # clear
 clear
