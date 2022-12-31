@@ -39,6 +39,12 @@ brew install zig
 # go
 brew install go
 
+# nim
+brew install nim
+
+
+
+
 # clear
 clear
 
