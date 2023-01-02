@@ -11,6 +11,9 @@ touch ~/.config/nvim/init.vim
 # neofetch
 brew install neofetch
 
+# bat
+brew install bat
+
 # sl
 brew install sl
 
