@@ -3,6 +3,11 @@ echo "Juha Mac Initializer"
 # brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# neovim
+brew install neovim
+mkdir -p ~/.config/nvim
+touch ~/.config/nvim/init.vim
+
 # neofetch
 brew install neofetch
 
@@ -41,7 +46,6 @@ brew install go
 
 # nim
 brew install nim
-
 
 
 
