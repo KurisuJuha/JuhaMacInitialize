@@ -56,6 +56,10 @@ brew install go
 # nim
 brew install nim
 
+# rust
+brew install rustup-init
+rustup-init
+
 
 
 # clear
