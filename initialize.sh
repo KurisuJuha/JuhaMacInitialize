@@ -32,6 +32,9 @@ brew install cloc
 # git
 brew install git
 
+# tig
+brew install tig
+
 # finch
 brew install finch
 
