@@ -35,9 +35,6 @@ brew install git
 # finch
 brew install finch
 
-# vscode
-brew install visual-studio-code --cask
-
 # oh my zsh
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 
@@ -67,6 +64,9 @@ brew install brave-browser
 
 # iterm2
 brew install iterm2
+
+# vscode
+brew install visual-studio-code --cask
 
 
 
