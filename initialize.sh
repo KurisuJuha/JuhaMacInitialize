@@ -62,6 +62,14 @@ rustup-init
 
 
 
+# brave
+brew install brave-browser
+
+# iterm2
+brew install iterm2
+
+
+
 # clear
 clear
 
