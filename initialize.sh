@@ -3,6 +3,12 @@ echo "Juha Mac Initializer"
 # brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# command line tools
+xcode-select --install
+
+# llvm
+brew install llvm
+
 # neovim
 brew install neovim
 mkdir -p ~/.config/nvim
@@ -14,14 +20,14 @@ brew install neofetch
 # bat
 brew install bat
 
+# tree
+brew install tree
+
 # sl
 brew install sl
 
 # cloc
 brew install cloc
-
-# command line tools
-xcode-select --install
 
 # git
 brew install git
