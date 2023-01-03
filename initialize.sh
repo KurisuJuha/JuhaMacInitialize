@@ -45,7 +45,7 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 brew install python
 
 # dotnet
-brew install --cask dotnet
+brew install dotnet-sdk
 
 # zig
 brew install zig
