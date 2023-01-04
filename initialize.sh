@@ -63,6 +63,9 @@ brew install nim
 brew install rustup-init
 rustup-init
 
+# wasmtime
+brew install wasmtime
+
 
 
 # brave
