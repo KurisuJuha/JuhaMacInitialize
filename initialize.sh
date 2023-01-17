@@ -77,6 +77,9 @@ brew install iterm2
 # vscode
 brew install visual-studio-code --cask
 
+# tanslate-shell
+brew install translate-shell
+
 
 
 # clear
