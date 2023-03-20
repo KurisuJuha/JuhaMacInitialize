@@ -110,6 +110,9 @@ brew install notion
 # pycharm
 brew install pycharm-ce
 
+# unityhub
+brew install unity-hub
+
 
 
 
