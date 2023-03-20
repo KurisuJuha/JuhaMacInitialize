@@ -82,6 +82,9 @@ brew install visual-studio-code --cask
 # tanslate-shell
 brew install translate-shell
 
+# slack
+brew install slack
+
 
 
 # clear
