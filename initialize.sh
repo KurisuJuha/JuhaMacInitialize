@@ -71,6 +71,9 @@ cargo install tokei
 # exa
 cargo install exa
 
+# cask-fonts tap
+brew tap homebrew/cask-fonts
+
 
 
 # brave
