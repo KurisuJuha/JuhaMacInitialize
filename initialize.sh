@@ -119,6 +119,11 @@ brew install discord
 # minecraft
 brew install minecraft
 
+# curseforge
+brew install curseforge
+
+
+
 
 
 
