@@ -65,6 +65,9 @@ rustup-init
 # wasmtime
 brew install wasmtime
 
+# tokei
+cargo install tokei
+
 
 
 # brave
