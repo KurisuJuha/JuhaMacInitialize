@@ -91,6 +91,9 @@ brew install slack
 # github desktop
 brew install github
 
+# pycharm
+brew install pycharm-ce
+
 
 
 
