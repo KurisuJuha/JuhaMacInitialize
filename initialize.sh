@@ -74,6 +74,9 @@ cargo install exa
 # cask-fonts tap
 brew tap homebrew/cask-fonts
 
+# hackgen
+brew install hackgen-nerd-fonts
+
 
 
 # brave
