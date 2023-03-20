@@ -85,6 +85,9 @@ brew install translate-shell
 # slack
 brew install slack
 
+# github desktop
+brew install github
+
 
 
 # clear
