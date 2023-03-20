@@ -140,4 +140,4 @@ neofetch
 brew list
 
 # 再起動
-zsh
+source ~/.zshrc
