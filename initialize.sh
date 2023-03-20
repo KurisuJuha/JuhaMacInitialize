@@ -124,6 +124,9 @@ brew install curseforge
 
 
 
+# starship
+brew install starship
+echo eval "$(starship init zsh)" >> ~/.zshrc
 
 
 
