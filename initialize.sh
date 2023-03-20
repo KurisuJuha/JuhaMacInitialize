@@ -2,6 +2,8 @@ echo "Juha Mac Initializer"
 
 # brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/hoge/.zprofile
+eval $(/opt/homebrew/bin/brew shellenv)
 
 # command line tools
 xcode-select --install
