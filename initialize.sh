@@ -116,6 +116,9 @@ brew install unity-hub
 # discord
 brew install discord
 
+# minecraft
+brew install minecraft
+
 
 
 
