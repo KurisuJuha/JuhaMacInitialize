@@ -90,8 +90,6 @@ brew install github
 
 
 
-# clear
-clear
 
 # SL表示
 sl
