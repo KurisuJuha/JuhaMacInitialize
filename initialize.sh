@@ -113,6 +113,9 @@ brew install pycharm-ce
 # unityhub
 brew install unity-hub
 
+# discord
+brew install discord
+
 
 
 
