@@ -77,6 +77,10 @@ brew tap homebrew/cask-fonts
 # hackgen
 brew install hackgen-nerd-fonts
 
+# autosuggestions
+brew install zsh-autosuggestions
+
+
 
 
 # brave
