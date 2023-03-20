@@ -68,6 +68,9 @@ brew install wasmtime
 # tokei
 cargo install tokei
 
+# exa
+cargo install exa
+
 
 
 # brave
