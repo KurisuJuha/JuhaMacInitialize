@@ -73,6 +73,9 @@ brew install wasmtime
 # brave
 brew install brave-browser
 
+# chrome
+brew install google-chrome
+
 # iterm2
 brew install iterm2
 
