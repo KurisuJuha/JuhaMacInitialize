@@ -122,7 +122,8 @@ brew install minecraft
 # curseforge
 brew install curseforge
 
-
+# figma
+brew install figma
 
 # starship
 brew install starship
