@@ -129,6 +129,9 @@ brew install figma
 brew install starship
 echo eval "$(starship init zsh)" >> ~/.zshrc
 
+# zoom
+brew install zoom
+
 
 
 # SL表示
